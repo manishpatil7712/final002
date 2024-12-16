@@ -1,4 +1,42 @@
-<svg width="398" height="250" xmlns="http://www.w3.org/2000/svg">
-  <rect width="398" height="250"  fill="white" fill-opacity="40%" />
-  Sorry, your browser does not support inline SVG.
+<svg width="398" height="236" xmlns="http://www.w3.org/2000/svg">
+
+
+<html>
+ 
+<head>
+    <title> </title>
+ 
+    <style>
+        .container {
+            background-image: url(
+"https://www.imghippo.com/i/HN5759ao.png");
+            background-size: cover;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 236px;
+            width: 398px;
+        }
+        .foreground {
+            backdrop-filter: blur(5px);
+            padding: 100%;
+        }
+    </style>
+</head>
+ 
+<body>
+    <h1 style="color: green">
+        
+    </h1>
+     
+    <b> </b>
+     
+    <div class="container">
+        <div class="foreground">
+            
+        </div>
+    </div>
+</body>
+ 
+</html>
 </svg>
